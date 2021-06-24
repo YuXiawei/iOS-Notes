@@ -1,5 +1,5 @@
-# iOS-Article-Collect
-收藏iOS相关的文章与第三方库
+# iOS-Article
+收藏iOS相关的文章
 
 - [系统](#系统)
 - [架构/设计](#架构/设计)

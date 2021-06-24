@@ -3,6 +3,7 @@
 
 - [系统](#系统)
 - [架构/设计](#架构/设计)
+- [Swift](#Swift)
 - [面试](#面试)
 - [优化](#优化)
 - [UI](#UI)
@@ -24,11 +25,20 @@
 - [iOS应用架构谈](https://casatwy.com/iosying-yong-jia-gou-tan-kai-pian.html)
 - [组件化-动态库实战](http://www.cocoachina.com/articles/19136)
 - [cocoapod搭建私有库超级详细教程](https://www.jianshu.com/p/9992feb8b00b)
+- [iOS 高效开发之 - 从 0 开始手把手教你制作自己的 Pod 库](https://juejin.cn/post/6868910104620728333)
 - [手把手教你高效快捷的创建Swift Framework](https://juejin.cn/post/6844903545620152327)
 - [iOS最实用的13种设计模式](https://www.jianshu.com/p/9c4a219e9cf9)
-- [iOS 组件化 —— 路由设计思路分析](https://www.jianshu.com/p/76da56b3bd55)
+- [iOS 组件化 —— 路由设计思路分析](https://juejin.cn/post/6844903582739726350)
 - [iOS单元测试和UI测试](https://www.jianshu.com/p/c54f0cc08c20)
 - [没有单元测试，何谈重构](https://www.jianshu.com/p/0b4fd636ad2c)
+- [iOS中的AOP(1)-介绍及应用](https://juejin.cn/post/6871647011335225358)
+- [iOS中的AOP(2)-SFAspect的实现原理](https://juejin.cn/post/6871909258150019079)
+- [iOS 高效开发之 - 3分钟实现自定义 Xcode 初始化的模板](https://juejin.cn/post/6882678008415518734)
+
+
+## Swift
+- [Swift 内存安全（Memory Safety译文）](https://juejin.cn/post/6871100978427510792)
+
 
 ### 面试
 - [理解 ARC 实现原理](https://juejin.cn/post/6844903847622606861)
@@ -38,6 +48,7 @@
 - [关于iOS多线程](http://www.cocoachina.com/articles/20404)
 - [Casa的PThread多线程课程](https://casatwy.com/PThread_course.html)
 - [GCD 详尽总结](https://www.jianshu.com/p/2d57c72016c6)
+- [一天精通iOS Swift多线程（GCD）](https://juejin.cn/post/6858126631760986126)
 - [iOS 开发中的八种锁（Lock）](https://www.jianshu.com/p/8b8a01dd6356)
 - [iOS探索 runtime面试题分析](https://juejin.cn/post/6844904079957688328)
 - [runtime源码解析](https://www.jianshu.com/p/52782535d38e)
@@ -57,6 +68,8 @@
 - [如何从资源和代码层面实现App全方位瘦身？-包大小优化](https://juejin.cn/post/6918686834906284040)
 
 ### UI
+- [iOS | 事件传递及响应链](https://juejin.cn/post/6894518925514997767)
+- [iOS | 响应链及手势识别](https://juejin.cn/post/6905914367171100680)
 - [使用Swift构建一个视频时间轴控件](https://www.jianshu.com/p/5fbc1079d63f)
 
 ### 动画

@@ -49,7 +49,6 @@
 - [Block实现原理的全面分析](https://www.jianshu.com/p/221d0778dcaa)
 - [iOS探索 多线程面试题分析](https://juejin.cn/post/6844904138623418376)
 - [关于iOS多线程](http://www.cocoachina.com/articles/20404)
-- [Casa的PThread多线程课程](https://casatwy.com/PThread_course.html)
 - [GCD 详尽总结](https://www.jianshu.com/p/2d57c72016c6)
 - [一天精通iOS Swift多线程（GCD）](https://juejin.cn/post/6858126631760986126)
 - [iOS 开发中的八种锁（Lock）](https://www.jianshu.com/p/8b8a01dd6356)

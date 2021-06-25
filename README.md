@@ -116,3 +116,5 @@
 - [苹果开发者公司账号申请全流程以及出现的问题](https://juejin.cn/post/6961678711066198030)
 - [iOS开发老司机的神兵利器-效率工具](https://juejin.cn/post/6844904205640007687)
 - [iOS日历攻略：提醒调休并过滤法定节假日](https://mp.weixin.qq.com/s/k-2P9DfIzy5ja8ce7mHHDw)
+- [Swift编译器Crash—Segmentation fault解决方案](https://mp.weixin.qq.com/s/FSlJKnC0y51nsLDp1B3tXg)
+- [抖音研发效能建设 - CocoaPods 优化实践](https://mp.weixin.qq.com/s/Pt6pcxKCHhdnnWPYrToNvA)

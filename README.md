@@ -37,10 +37,14 @@ iOS相关文章
 - [iOS技能拓展 多环境配置](https://juejin.cn/post/6961026404125245471)
 - [【iOS】架构师之路~ 网络篇](https://juejin.cn/post/6844903923820527629)
 
+
 ## Swift
 - [Swift 内存安全（Memory Safety译文）](https://juejin.cn/post/6871100978427510792)
 - [WWDC20 iOS14 Runtime优化](https://juejin.cn/post/6846687597478019079)
 - [Swift5.0 的 Runtime 机制浅析](https://juejin.cn/post/6844903889523884039)
+- [Swift 派发机制](https://mp.weixin.qq.com/s/QefnKohdk_7OYiAvlmIPYQ)
+- [从Mach-O角度谈谈Swift和OC的存储差异](https://mp.weixin.qq.com/s?__biz=MzI1NDc5MzIxMw==&mid=2247491058&idx=1&sn=3b1d7e68ff51df58046d1e0d0aee1039)
+- [Swift Hook新思路--虚函数表](https://mp.weixin.qq.com/s?__biz=MzI1NDc5MzIxMw==&mid=2247492081&idx=1&sn=2dbcff3fdeac6dd20ed0e573a5366e47)
 
 
 ### 面试
@@ -65,7 +69,7 @@ iOS相关文章
 - [【iOS】架构师之路~底层原理五 : (面试题目整理)](https://juejin.cn/post/6844903960722014215)
 
 ### 优化
-- [App 启动提速实践和一些想法](https://mp.weixin.qq.com/s?__biz=MjM5Nzg5ODY1Mg==&mid=2650138769&idx=1&sn=3a93e9e651dc337d1a4c9d82957f63ea&scene=21#wechat_redirect)
+- [App 启动提速实践和一些想法](https://mp.weixin.qq.com/s?__biz=MjM5Nzg5ODY1Mg==&mid=2650138769&idx=1&sn=3a93e9e651dc337d1a4c9d82957f63ea)
 - [如何加快编译速度](https://www.zybuluo.com/qidiandasheng/note/587124)
 - [OOM治理](https://www.cnblogs.com/kenshincui/p/13153681.html)
 - [iOS 稳定性：如何在开发中规避安全风险](https://mp.weixin.qq.com/s?__biz=MzI2NTAxMzg2MA==&mid=2247488049&idx=1&sn=ff2792e96d5b6b33dbaa81b0a3eab7e1&scene=21#wechat_redirect)
@@ -104,7 +108,7 @@ iOS相关文章
 
 
 ### 其它
-- [带你深入了解OC对象创建过程](https://mp.weixin.qq.com/s?__biz=MzUyMDAxMjQ3Ng==&mid=2247494517&idx=1&sn=55e6f4154e7e44f99d8a647067f4798f&chksm=f9f27ca6ce85f5b0ec00f9b9eaa5d7f48b762f1223dda2b79baa7e1b3ca51689679237956220&token=560372894&lang=zh_CN&scene=21#wechat_redirect)
+- [带你深入了解OC对象创建过程](https://mp.weixin.qq.com/s?__biz=MzUyMDAxMjQ3Ng==&mid=2247494517&idx=1&sn=55e6f4154e7e44f99d8a647067f4798f)
 - [带你深入了解OC对象的销毁过程](https://mp.weixin.qq.com/s/p8RRpuY2AgNc-lJ0NzG9bg)
 - [CocoaPods历险记](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA5MTM1NTc2Ng==&action=getalbum&album_id=1477103239887142918&scene=173&from_msgid=2458322728&from_itemidx=1&count=3#wechat_redirect)
 - [iOS开发调试概览](https://www.cnblogs.com/kenshincui/p/11953536.html)

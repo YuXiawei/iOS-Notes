@@ -48,6 +48,9 @@ iOS相关文章
 
 
 ### 面试
+- [【iOS】架构师之路~底层原理五 : (面试题目整理)](https://juejin.cn/post/6844903960722014215)
+- [iOS Memory 内存详解](https://juejin.cn/post/6844903902169710600)
+- [iOS底层原理：weak的实现原理](https://juejin.cn/post/6844904101839372295)
 - [理解 ARC 实现原理](https://juejin.cn/post/6844903847622606861)
 - [源码解析之从Block说开去](https://www.jianshu.com/p/f0cd09a04a36?utm_source=desktop&utm_medium=timeline)
 - [Block实现原理的全面分析](https://www.jianshu.com/p/221d0778dcaa)
@@ -66,7 +69,7 @@ iOS相关文章
 - [Socket](https://www.jianshu.com/p/d631be06efbc)
 - [iOS-Socket网络通信-框架与API](https://www.jianshu.com/p/9b589c880353)
 - [搞iOS的，面试官问Hash干嘛？原因远比我下面要介绍的多](https://juejin.cn/post/6844903778940878861)
-- [【iOS】架构师之路~底层原理五 : (面试题目整理)](https://juejin.cn/post/6844903960722014215)
+
 
 ### 优化
 - [App 启动提速实践和一些想法](https://mp.weixin.qq.com/s?__biz=MjM5Nzg5ODY1Mg==&mid=2650138769&idx=1&sn=3a93e9e651dc337d1a4c9d82957f63ea)
@@ -78,6 +81,7 @@ iOS相关文章
 - [我是如何让微博绿洲的启动速度提升30%的](https://juejin.cn/post/6844904143111323661)
 - [一款可以让大型iOS工程编译速度提升50%的工具](https://juejin.cn/post/6934554272142983181)
 
+
 ### UI
 - [iOS | 事件传递及响应链](https://juejin.cn/post/6894518925514997767)
 - [iOS | 响应链及手势识别](https://juejin.cn/post/6905914367171100680)
@@ -85,6 +89,7 @@ iOS相关文章
 - [TableView分页数据加载](https://juejin.cn/post/6952682593372340237)
 - [Core Text 编程指南](https://juejin.cn/post/6844903769864404999)
 - [iOS 浅谈图片渲染到屏幕原理](https://juejin.cn/post/6856575265322532877)
+
 
 ### 动画
 - [ios核心动画高级技巧](https://www.kancloud.cn/manual/ios)
@@ -104,7 +109,6 @@ iOS相关文章
 
 
 ### 跨平台
-
 
 
 ### 其它

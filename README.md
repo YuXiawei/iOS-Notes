@@ -136,3 +136,5 @@ iOS相关文章
 - [Swift编译器Crash—Segmentation fault解决方案](https://mp.weixin.qq.com/s/FSlJKnC0y51nsLDp1B3tXg)
 - [利用 Apple Business Manager 定向分发 Custom App](https://mp.weixin.qq.com/s/DlqTipoZCJCBotGhha1GIw)
 - [深入理解 WKWebView（入门篇）](https://mp.weixin.qq.com/s?__biz=MzUxMzk2ODI1NQ==&mid=2247484382&idx=1&sn=0ee23e4ca6dc8deff3cf42303dc8c6db)
+- [iOS编译过程的原理和应用](https://blog.csdn.net/Hello_Hwc/article/details/53557308)
+- [Xcode编译疾如风系列-1.分析编译耗时](https://cloud.tencent.com/developer/article/1817236)

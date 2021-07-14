@@ -23,6 +23,7 @@ iOS相关文章
 
 ### 架构/设计
 - [iOS应用架构谈](https://casatwy.com/iosying-yong-jia-gou-tan-kai-pian.html)
+- [iOS APP 架构设计](https://juejin.cn/post/6981699887549120548)
 - [组件化-动态库实战](http://www.cocoachina.com/articles/19136)
 - [cocoapod搭建私有库超级详细教程](https://www.jianshu.com/p/9992feb8b00b)
 - [iOS 高效开发之 - 从 0 开始手把手教你制作自己的 Pod 库](https://juejin.cn/post/6868910104620728333)

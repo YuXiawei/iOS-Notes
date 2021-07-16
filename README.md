@@ -38,7 +38,7 @@ iOS相关文章
 - [iOS 高效开发之 - 3分钟实现自定义 Xcode 初始化的模板](https://juejin.cn/post/6882678008415518734)
 - [iOS技能拓展 多环境配置](https://juejin.cn/post/6961026404125245471)
 - [【iOS】架构师之路~ 网络篇](https://juejin.cn/post/6844903923820527629)
-
+- [抖音iOS最复杂功能的重构之路--播放器交互区重构实践](https://mp.weixin.qq.com/s/ZmF5w3zzpqJb7AiBWGJUvA)
 
 ## Swift
 - [Swift 内存安全（Memory Safety译文）](https://juejin.cn/post/6871100978427510792)

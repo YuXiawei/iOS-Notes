@@ -81,6 +81,7 @@ iOS相关文章
 
 
 ### 优化
+- [APP 性能优化终极求生指南](https://xiaozhuanlan.com/topic/5073916284)
 - [App 启动提速实践和一些想法](https://mp.weixin.qq.com/s?__biz=MjM5Nzg5ODY1Mg==&mid=2650138769&idx=1&sn=3a93e9e651dc337d1a4c9d82957f63ea)
 - [如何加快编译速度](https://www.zybuluo.com/qidiandasheng/note/587124)
 - [OOM治理](https://www.cnblogs.com/kenshincui/p/13153681.html)

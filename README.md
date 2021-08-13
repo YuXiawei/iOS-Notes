@@ -101,6 +101,7 @@ iOS相关文章
 
 ### UI
 - [iOS 页面渲染 - UIView & CALayer](https://mp.weixin.qq.com/s/ElGEsJoh3Y1-BWlvz1yJ9w)
+- [iOS 中的事件响应](https://mp.weixin.qq.com/s/OFwC7Z3iir2wKPJoRpLhFw)
 - [iOS | 事件传递及响应链](https://juejin.cn/post/6894518925514997767)
 - [iOS | 响应链及手势识别](https://juejin.cn/post/6905914367171100680)
 - [使用Swift构建一个视频时间轴控件](https://www.jianshu.com/p/5fbc1079d63f)

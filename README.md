@@ -5,13 +5,13 @@ iOS相关文章
 - [架构/设计](#架构/设计)
 - [Swift](#Swift)
 - [SwiftUI](#SwiftUI)
-- [面试](#面试)
 - [优化](#优化)
 - [UI](#UI)
 - [动画](#动画)
 - [音视频](#音视频)
 - [算法](#算法)
 - [网络](#网络)
+- [面试](#面试)
 - [其它](#其它)
 
 
@@ -43,62 +43,6 @@ iOS相关文章
 - [西瓜客户端埋点实践：基于责任链的埋点框架](https://mp.weixin.qq.com/s/iMn--4FNugtH26G90N1MaQ)
 
 
-## Swift
-- [Swift 内存安全（Memory Safety译文）](https://juejin.cn/post/6871100978427510792)
-- [WWDC20 iOS14 Runtime优化](https://juejin.cn/post/6846687597478019079)
-- [Swift5.0 的 Runtime 机制浅析](https://juejin.cn/post/6844903889523884039)
-- [Swift 派发机制](https://mp.weixin.qq.com/s/QefnKohdk_7OYiAvlmIPYQ)
-- [从Mach-O角度谈谈Swift和OC的存储差异](https://mp.weixin.qq.com/s?__biz=MzI1NDc5MzIxMw==&mid=2247491058&idx=1&sn=3b1d7e68ff51df58046d1e0d0aee1039)
-- [Swift Hook新思路--虚函数表](https://mp.weixin.qq.com/s?__biz=MzI1NDc5MzIxMw==&mid=2247492081&idx=1&sn=2dbcff3fdeac6dd20ed0e573a5366e47)
-- [初探 Swift 算法和集合](https://xiaozhuanlan.com/topic/0958147326)
-- [使用Swift提高代码质量](https://juejin.cn/post/6984768684250120222)
-
-
-## SwiftUI
-- [SwiftUI 编程指南](https://xiaozhuanlan.com/topic/9014753268)
-- [SwiftUI 技术内幕](https://xiaozhuanlan.com/topic/0619782354)
-
-
-### 面试
-- [【iOS】架构师之路~底层原理五 : (面试题目整理)](https://juejin.cn/post/6844903960722014215)
-- [再谈 OC 属性及属性关键字](https://juejin.cn/post/6986323251911720997)
-- [iOS Memory 内存详解](https://juejin.cn/post/6844903902169710600)
-- [iOS底层原理：weak的实现原理](https://juejin.cn/post/6844904101839372295)
-- [理解 ARC 实现原理](https://juejin.cn/post/6844903847622606861)
-- [理解 Block 实现原理](https://juejin.cn/post/6844903874608775181)
-- [源码解析之从Block说开去](https://www.jianshu.com/p/f0cd09a04a36?utm_source=desktop&utm_medium=timeline)
-- [Block实现原理的全面分析](https://www.jianshu.com/p/221d0778dcaa)
-- [iOS探索 多线程面试题分析](https://juejin.cn/post/6844904138623418376)
-- [关于iOS多线程](http://www.cocoachina.com/articles/20404)
-- [GCD 详尽总结](https://www.jianshu.com/p/2d57c72016c6)
-- [一天精通iOS Swift多线程（GCD）](https://juejin.cn/post/6858126631760986126)
-- [iOS 开发中的八种锁（Lock）](https://www.jianshu.com/p/8b8a01dd6356)
-- [iOS探索 runtime面试题分析](https://juejin.cn/post/6844904079957688328)
-- [runtime源码解析](https://www.jianshu.com/p/52782535d38e)
-- [RunLoop充满灵性的死循环](https://www.jianshu.com/p/b9426458fcf6)
-- [arm64 objc_msgSend 源码解读](https://www.jianshu.com/p/1972010b88d7)
-- [为什么Objective-C的消息转发要设计三个阶段？](https://juejin.cn/post/6844903880099102727)
-- [深入理解 iOS App 的启动过程](https://www.jianshu.com/p/e7a9e14205ac)
-- [iOS大解密：玄之又玄的KVO](https://mp.weixin.qq.com/s/0Yfb-FYorH5GZ3ZB6bMCUQ)
-- [Socket](https://www.jianshu.com/p/d631be06efbc)
-- [iOS-Socket网络通信-框架与API](https://www.jianshu.com/p/9b589c880353)
-- [搞iOS的，面试官问Hash干嘛？原因远比我下面要介绍的多](https://juejin.cn/post/6844903778940878861)
-
-
-### 优化
-- [APP 性能优化终极求生指南](https://xiaozhuanlan.com/topic/5073916284)
-- [App 启动提速实践和一些想法](https://mp.weixin.qq.com/s?__biz=MjM5Nzg5ODY1Mg==&mid=2650138769&idx=1&sn=3a93e9e651dc337d1a4c9d82957f63ea)
-- [如何加快编译速度](https://www.zybuluo.com/qidiandasheng/note/587124)
-- [OOM治理](https://www.cnblogs.com/kenshincui/p/13153681.html)
-- [iOS 稳定性：如何在开发中规避安全风险](https://mp.weixin.qq.com/s?__biz=MzI2NTAxMzg2MA==&mid=2247488049&idx=1&sn=ff2792e96d5b6b33dbaa81b0a3eab7e1&scene=21#wechat_redirect)
-- [今日头条优化实践： iOS 包大小二进制优化，一行代码减少 60 MB 下载大小](https://juejin.cn/post/6911121493573402638)
-- [如何从资源和代码层面实现App全方位瘦身？-包大小优化](https://juejin.cn/post/6918686834906284040)
-- [我是如何让微博绿洲的启动速度提升30%的](https://juejin.cn/post/6844904143111323661)
-- [一款可以让大型iOS工程编译速度提升50%的工具](https://juejin.cn/post/6934554272142983181)
-- [iOS性能优化系列篇之“列表流畅度优化”](https://juejin.cn/post/6844903656769208334)
-- [iOS 优化 - 瘦身](https://mp.weixin.qq.com/s/wDcYvea5dTq0dh0PBwRu4A)
-
-
 ### UI
 - [iOS 页面渲染 - UIView & CALayer](https://mp.weixin.qq.com/s/ElGEsJoh3Y1-BWlvz1yJ9w)
 - [iOS 中的事件响应](https://mp.weixin.qq.com/s/OFwC7Z3iir2wKPJoRpLhFw)
@@ -109,6 +53,22 @@ iOS相关文章
 - [Core Text 编程指南](https://juejin.cn/post/6844903769864404999)
 - [iOS 浅谈图片渲染到屏幕原理](https://juejin.cn/post/6856575265322532877)
 - [ iOS 10 UICollectionView新特性](https://juejin.cn/post/6844903441416847374)
+
+
+### Swift
+- [Swift 内存安全（Memory Safety译文）](https://juejin.cn/post/6871100978427510792)
+- [WWDC20 iOS14 Runtime优化](https://juejin.cn/post/6846687597478019079)
+- [Swift5.0 的 Runtime 机制浅析](https://juejin.cn/post/6844903889523884039)
+- [Swift 派发机制](https://mp.weixin.qq.com/s/QefnKohdk_7OYiAvlmIPYQ)
+- [从Mach-O角度谈谈Swift和OC的存储差异](https://mp.weixin.qq.com/s?__biz=MzI1NDc5MzIxMw==&mid=2247491058&idx=1&sn=3b1d7e68ff51df58046d1e0d0aee1039)
+- [Swift Hook新思路--虚函数表](https://mp.weixin.qq.com/s?__biz=MzI1NDc5MzIxMw==&mid=2247492081&idx=1&sn=2dbcff3fdeac6dd20ed0e573a5366e47)
+- [初探 Swift 算法和集合](https://xiaozhuanlan.com/topic/0958147326)
+- [使用Swift提高代码质量](https://juejin.cn/post/6984768684250120222)
+
+
+### SwiftUI
+- [SwiftUI 编程指南](https://xiaozhuanlan.com/topic/9014753268)
+- [SwiftUI 技术内幕](https://xiaozhuanlan.com/topic/0619782354)
 
 
 ### 动画
@@ -136,6 +96,47 @@ iOS相关文章
 - [iOS网络缓存扫盲篇](https://www.jianshu.com/p/fb5aaeac06ef)
 - [移动端IM开发者必读(二)：史上最全移动弱网络优化方法总结](http://www.52im.net/thread-1588-1-1.html)
 - [iOS中的网络调试](https://juejin.cn/post/6844904185268273159)
+
+
+### 优化
+- [APP 性能优化终极求生指南](https://xiaozhuanlan.com/topic/5073916284)
+- [App 启动提速实践和一些想法](https://mp.weixin.qq.com/s?__biz=MjM5Nzg5ODY1Mg==&mid=2650138769&idx=1&sn=3a93e9e651dc337d1a4c9d82957f63ea)
+- [如何加快编译速度](https://www.zybuluo.com/qidiandasheng/note/587124)
+- [OOM治理](https://www.cnblogs.com/kenshincui/p/13153681.html)
+- [iOS 稳定性：如何在开发中规避安全风险](https://mp.weixin.qq.com/s?__biz=MzI2NTAxMzg2MA==&mid=2247488049&idx=1&sn=ff2792e96d5b6b33dbaa81b0a3eab7e1&scene=21#wechat_redirect)
+- [今日头条优化实践： iOS 包大小二进制优化，一行代码减少 60 MB 下载大小](https://juejin.cn/post/6911121493573402638)
+- [如何从资源和代码层面实现App全方位瘦身？-包大小优化](https://juejin.cn/post/6918686834906284040)
+- [我是如何让微博绿洲的启动速度提升30%的](https://juejin.cn/post/6844904143111323661)
+- [一款可以让大型iOS工程编译速度提升50%的工具](https://juejin.cn/post/6934554272142983181)
+- [iOS性能优化系列篇之“列表流畅度优化”](https://juejin.cn/post/6844903656769208334)
+- [iOS 优化 - 瘦身](https://mp.weixin.qq.com/s/wDcYvea5dTq0dh0PBwRu4A)
+
+
+### 面试
+- [【iOS】架构师之路~底层原理五 : (面试题目整理)](https://juejin.cn/post/6844903960722014215)
+- [再谈 OC 属性及属性关键字](https://juejin.cn/post/6986323251911720997)
+- [iOS Memory 内存详解](https://juejin.cn/post/6844903902169710600)
+- [iOS底层原理：weak的实现原理](https://juejin.cn/post/6844904101839372295)
+- [理解 ARC 实现原理](https://juejin.cn/post/6844903847622606861)
+- [理解 Block 实现原理](https://juejin.cn/post/6844903874608775181)
+- [源码解析之从Block说开去](https://www.jianshu.com/p/f0cd09a04a36?utm_source=desktop&utm_medium=timeline)
+- [Block实现原理的全面分析](https://www.jianshu.com/p/221d0778dcaa)
+- [iOS探索 多线程面试题分析](https://juejin.cn/post/6844904138623418376)
+- [关于iOS多线程](http://www.cocoachina.com/articles/20404)
+- [GCD 详尽总结](https://www.jianshu.com/p/2d57c72016c6)
+- [一天精通iOS Swift多线程（GCD）](https://juejin.cn/post/6858126631760986126)
+- [iOS 开发中的八种锁（Lock）](https://www.jianshu.com/p/8b8a01dd6356)
+- [iOS探索 runtime面试题分析](https://juejin.cn/post/6844904079957688328)
+- [runtime源码解析](https://www.jianshu.com/p/52782535d38e)
+- [RunLoop充满灵性的死循环](https://www.jianshu.com/p/b9426458fcf6)
+- [arm64 objc_msgSend 源码解读](https://www.jianshu.com/p/1972010b88d7)
+- [为什么Objective-C的消息转发要设计三个阶段？](https://juejin.cn/post/6844903880099102727)
+- [深入理解 iOS App 的启动过程](https://www.jianshu.com/p/e7a9e14205ac)
+- [iOS大解密：玄之又玄的KVO](https://mp.weixin.qq.com/s/0Yfb-FYorH5GZ3ZB6bMCUQ)
+- [Socket](https://www.jianshu.com/p/d631be06efbc)
+- [iOS-Socket网络通信-框架与API](https://www.jianshu.com/p/9b589c880353)
+- [搞iOS的，面试官问Hash干嘛？原因远比我下面要介绍的多](https://juejin.cn/post/6844903778940878861)
+- [关于iOS离屏渲染的深入研究](https://zhuanlan.zhihu.com/p/72653360)
 
 
 ### 其它

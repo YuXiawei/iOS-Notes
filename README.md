@@ -61,6 +61,7 @@ iOS相关文章
 - [WWDC20 iOS14 Runtime优化](https://juejin.cn/post/6846687597478019079)
 - [Swift5.0 的 Runtime 机制浅析](https://juejin.cn/post/6844903889523884039)
 - [Swift 派发机制](https://mp.weixin.qq.com/s/QefnKohdk_7OYiAvlmIPYQ)
+- [多角度体会 Swift 方法派发](https://mp.weixin.qq.com/s?__biz=MzU4NTI0NDI4MQ==&mid=2247487030&idx=1&sn=0bacdf2cdea4cf0457266ae6cfa26d4f)
 - [从Mach-O角度谈谈Swift和OC的存储差异](https://mp.weixin.qq.com/s?__biz=MzI1NDc5MzIxMw==&mid=2247491058&idx=1&sn=3b1d7e68ff51df58046d1e0d0aee1039)
 - [Swift Hook新思路--虚函数表](https://mp.weixin.qq.com/s?__biz=MzI1NDc5MzIxMw==&mid=2247492081&idx=1&sn=2dbcff3fdeac6dd20ed0e573a5366e47)
 - [初探 Swift 算法和集合](https://xiaozhuanlan.com/topic/0958147326)

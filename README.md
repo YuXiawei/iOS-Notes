@@ -52,6 +52,7 @@ iOS相关文章
 - [TableView分页数据加载](https://juejin.cn/post/6952682593372340237)
 - [Core Text 编程指南](https://juejin.cn/post/6844903769864404999)
 - [iOS 浅谈图片渲染到屏幕原理](https://juejin.cn/post/6856575265322532877)
+- [iOS 性能检测新方式​——AnimationHitches](https://mp.weixin.qq.com/s/SQgxvBztLQFZ6QV43iN2Vg)
 - [ iOS 10 UICollectionView新特性](https://juejin.cn/post/6844903441416847374)
 
 

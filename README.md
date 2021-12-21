@@ -98,7 +98,7 @@ iOS相关文章
 - [全面理解DNS及HTTPDNS](https://juejin.cn/post/6844903987796246542)
 - [iOS IP 直连原理剖析](https://juejin.cn/post/6844903564960088071)
 - [iOS网络缓存扫盲篇](https://www.jianshu.com/p/fb5aaeac06ef)
-- [移动端IM开发者必读(二)：史上最全移动弱网络优化方法总结](http://www.52im.net/thread-1588-1-1.html)
+- [移动端IM开发者必读(一)：通俗易懂，理解移动网络的“弱”和“慢”](http://www.52im.net/thread-1587-1-1.html)
 - [iOS中的网络调试](https://juejin.cn/post/6844904185268273159)
 
 

@@ -11,6 +11,7 @@ iOS相关文章
 - [算法](#算法)
 - [网络](#网络)
 - [优化](#优化)
+- [编译](#编译)
 - [面试](#面试)
 - [其它](#其它)
 
@@ -115,6 +116,12 @@ iOS相关文章
 - [iOS性能优化系列篇之“列表流畅度优化”](https://juejin.cn/post/6844903656769208334)
 - [iOS 优化 - 瘦身](https://mp.weixin.qq.com/s/wDcYvea5dTq0dh0PBwRu4A)
 
+### 编译
+- [iOS编译简析](https://mp.weixin.qq.com/s?__biz=MzU4NjQ5NDYxNg==&mid=2247483706&idx=1&sn=5548d8358ba53513aa4868479af6cdde)
+- [iOS编译过程的原理和应用](https://blog.csdn.net/Hello_Hwc/article/details/53557308)
+- [Xcode编译疾如风系列-1.分析编译耗时](https://cloud.tencent.com/developer/article/1817236)
+- [Swift编译器Crash—Segmentation fault解决方案](https://mp.weixin.qq.com/s/FSlJKnC0y51nsLDp1B3tXg)
+
 
 ### 面试
 - [【iOS】架构师之路~底层原理五 : (面试题目整理)](https://juejin.cn/post/6844903960722014215)
@@ -158,11 +165,8 @@ iOS相关文章
 - [苹果开发者公司账号申请全流程以及出现的问题](https://juejin.cn/post/6961678711066198030)
 - [iOS开发老司机的神兵利器-效率工具](https://juejin.cn/post/6844904205640007687)
 - [iOS日历攻略：提醒调休并过滤法定节假日](https://mp.weixin.qq.com/s/k-2P9DfIzy5ja8ce7mHHDw)
-- [Swift编译器Crash—Segmentation fault解决方案](https://mp.weixin.qq.com/s/FSlJKnC0y51nsLDp1B3tXg)
 - [利用 Apple Business Manager 定向分发 Custom App](https://mp.weixin.qq.com/s/DlqTipoZCJCBotGhha1GIw)
 - [深入理解 WKWebView（入门篇）](https://mp.weixin.qq.com/s?__biz=MzUxMzk2ODI1NQ==&mid=2247484382&idx=1&sn=0ee23e4ca6dc8deff3cf42303dc8c6db)
-- [iOS编译过程的原理和应用](https://blog.csdn.net/Hello_Hwc/article/details/53557308)
-- [Xcode编译疾如风系列-1.分析编译耗时](https://cloud.tencent.com/developer/article/1817236)
 - [带你深入了解OC对象创建过程](https://mp.weixin.qq.com/s?__biz=MzUyMDAxMjQ3Ng==&mid=2247494517&idx=1&sn=55e6f4154e7e44f99d8a647067f4798f)
 - [带你深入了解OC对象的销毁过程](https://mp.weixin.qq.com/s/p8RRpuY2AgNc-lJ0NzG9bg)
 - [OC分类底层实现与使⽤场景详解](https://mp.weixin.qq.com/s/D6TkWhC2oCd2v1c8aTGAvQ)

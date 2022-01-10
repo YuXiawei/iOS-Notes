@@ -176,3 +176,4 @@ iOS相关文章
 - [iOS 识别虚拟定位调研](https://mp.weixin.qq.com/s/ZbZ4pFzzyfrQifmLewrxsw)
 - [再探ARC，Autoreleasepool，NSString——由一场直播OOM引发的故事](https://mp.weixin.qq.com/s/oU9DWR4OP8DMp6smMhIxZg)
 - [iOS 深思篇 | 正则表达式](https://mp.weixin.qq.com/s/0sVMQDstgIZEpYZUvRNadg)
+- [用苹果官方 API 实现 iOS 备忘录的扫描文稿功能](https://www.fatbobman.com/posts/docScaner/)

@@ -115,6 +115,8 @@ iOS相关文章
 - [一款可以让大型iOS工程编译速度提升50%的工具](https://juejin.cn/post/6934554272142983181)
 - [iOS性能优化系列篇之“列表流畅度优化”](https://juejin.cn/post/6844903656769208334)
 - [iOS 优化 - 瘦身](https://mp.weixin.qq.com/s/wDcYvea5dTq0dh0PBwRu4A)
+- [“杀死” App 上的疑难崩溃！](https://mp.weixin.qq.com/s?__biz=MjM5MjAwODM4MA==&mid=2650897744&idx=1&sn=9035438a8807c60190b1438affa535cc)
+
 
 ### 编译
 - [iOS编译简析](https://mp.weixin.qq.com/s?__biz=MzU4NjQ5NDYxNg==&mid=2247483706&idx=1&sn=5548d8358ba53513aa4868479af6cdde)
@@ -122,6 +124,8 @@ iOS相关文章
 - [Xcode编译疾如风系列-1.分析编译耗时](https://cloud.tencent.com/developer/article/1817236)
 - [Swift编译器Crash—Segmentation fault解决方案](https://mp.weixin.qq.com/s/FSlJKnC0y51nsLDp1B3tXg)
 - [iOS的编译过程 LLVM Clang](https://www.jianshu.com/p/037fb5002b77)
+- [M1设备的Xcode编译问题深究](https://juejin.cn/post/7037037120158269448)
+
 
 ### 面试
 - [【iOS】架构师之路~底层原理五 : (面试题目整理)](https://juejin.cn/post/6844903960722014215)

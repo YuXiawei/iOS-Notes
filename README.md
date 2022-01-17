@@ -43,6 +43,7 @@ iOS相关文章
 - [【iOS】架构师之路~ 网络篇](https://juejin.cn/post/6844903923820527629)
 - [抖音iOS最复杂功能的重构之路--播放器交互区重构实践](https://mp.weixin.qq.com/s/ZmF5w3zzpqJb7AiBWGJUvA)
 - [西瓜客户端埋点实践：基于责任链的埋点框架](https://mp.weixin.qq.com/s/iMn--4FNugtH26G90N1MaQ)
+- [淘系技术-浅谈软件开发架构模式](https://mp.weixin.qq.com/s/cWp4J-XmvaoWHRMeuVDzPQ)
 
 
 ### UI

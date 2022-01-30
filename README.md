@@ -196,3 +196,5 @@ iOS相关文章
 - [iOS 深思篇 | 正则表达式](https://mp.weixin.qq.com/s/0sVMQDstgIZEpYZUvRNadg)
 - [用苹果官方 API 实现 iOS 备忘录的扫描文稿功能](https://www.fatbobman.com/posts/docScaner/)
 - [字节跳动移动研发工具链 - MBox](https://mp.weixin.qq.com/s/OD2lYfA9tkdgEp4QGRtdog)
+- [静态库冲突问题思路全解]（https://mp.weixin.qq.com/s/LAFS-6Oycnzu5kOhS9d7pA）
+- [超全回顾 | 5位抖音工程师揭秘抖音iOS基础技术（附PPT和回放视频）](https://mp.weixin.qq.com/s/dFkGjCgZeXbYxsu3F40L-Q)

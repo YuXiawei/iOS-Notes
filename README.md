@@ -87,6 +87,7 @@ iOS相关文章
 - [iOS动画详解](http://www.cocoachina.com/articles/18617)
 - [iOS动画（Core Animation）总结](http://www.cocoachina.com/articles/17010)
 - [11 个例子，由浅到深，学习 iOS 动画](https://zhuanlan.zhihu.com/p/88539975)
+- [iOS动画专题·UIView二维形变动画与CAAnimation核心动画](https://mp.weixin.qq.com/s/GoDOS24isRAQY-H2bDji8Q)
 
 
 ### 混合开发

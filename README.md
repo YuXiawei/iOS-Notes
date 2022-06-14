@@ -73,6 +73,8 @@ iOS相关文章
 - [Advanced Property Wrapper in Swift](https://mp.weixin.qq.com/s/psgRgIZlVDtIeQeDmUmXOw)
 - [Swift-29个关键字，助力开发](https://juejin.cn/post/6844904112119611399)
 - [Swift在58安居客房产实践](https://mp.weixin.qq.com/s/xMhVbw2-z2sDQbF9I8_0uA)
+- [Swift 中的幻象类型](https://mp.weixin.qq.com/s/HLWu24LrfqSfbhd9x6Q_ag)
+- [Swift 风味各异的类型擦除](https://mp.weixin.qq.com/s/qPcHh8reGiU6TD_eHFNAaQ)
 
 
 ### SwiftUI

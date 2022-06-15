@@ -104,6 +104,7 @@ iOS相关文章
 - [IOS基础：绘图](https://www.jianshu.com/p/88bcbc524a92)
 - [Audio Unit: iOS中最底层最强大音频控制API](https://juejin.cn/post/6844903838994923534)
 - [移动端音视频从零到上手](https://juejin.cn/post/6844903889007820813)
+- [音视频基础概念合集：148 个问题带你快速上车音视频丨音视频基础](https://mp.weixin.qq.com/s/X1idBFp7T5zhnqPmYSbQDw)
 
 
 ### 算法

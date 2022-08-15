@@ -179,6 +179,7 @@ iOS相关文章
 - [带你深入了解OC对象的销毁过程](https://mp.weixin.qq.com/s/p8RRpuY2AgNc-lJ0NzG9bg)
 - [OC分类底层实现与使⽤场景详解](https://mp.weixin.qq.com/s/D6TkWhC2oCd2v1c8aTGAvQ)
 - [RunLoop的实际使用](https://mp.weixin.qq.com/s/GrkCUyxsoxqdkbeJcoAIdw)
+- [探秘AutoreleasePool实现原理](https://mp.weixin.qq.com/s?__biz=MzU3NTY3MTQzMg==&mid=2247532428&idx=1&sn=00d63a018ecb1b42f2fa257f37541d57)
 
 
 ### 其它

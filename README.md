@@ -27,7 +27,6 @@ iOS相关文章
 ### 架构/设计
 - [iOS应用架构谈](https://casatwy.com/iosying-yong-jia-gou-tan-kai-pian.html)
 - [iOS APP 架构设计](https://juejin.cn/post/6981699887549120548)
-- [组件化-动态库实战](http://www.cocoachina.com/articles/19136)
 - [cocoapod搭建私有库超级详细教程](https://www.jianshu.com/p/9992feb8b00b)
 - [iOS 高效开发之 - 从 0 开始手把手教你制作自己的 Pod 库](https://juejin.cn/post/6868910104620728333)
 - [手把手教你高效快捷的创建Swift Framework](https://juejin.cn/post/6844903545620152327)
@@ -87,8 +86,8 @@ iOS相关文章
 
 ### 动画
 - [ios核心动画高级技巧](https://www.kancloud.cn/manual/ios)
-- [iOS动画详解](http://www.cocoachina.com/articles/18617)
-- [iOS动画（Core Animation）总结](http://www.cocoachina.com/articles/17010)
+- [iOS动画详解](https://www.jianshu.com/p/79a0b3c7086c)
+- [iOS动画（Core Animation）总结](https://www.jianshu.com/p/dfe084fadfc2#)
 - [11 个例子，由浅到深，学习 iOS 动画](https://zhuanlan.zhihu.com/p/88539975)
 - [iOS动画专题·UIView二维形变动画与CAAnimation核心动画](https://mp.weixin.qq.com/s/GoDOS24isRAQY-H2bDji8Q)
 
@@ -159,7 +158,6 @@ iOS相关文章
 - [源码解析之从Block说开去](https://www.jianshu.com/p/f0cd09a04a36?utm_source=desktop&utm_medium=timeline)
 - [Block实现原理的全面分析](https://www.jianshu.com/p/221d0778dcaa)
 - [iOS探索 多线程面试题分析](https://juejin.cn/post/6844904138623418376)
-- [关于iOS多线程](http://www.cocoachina.com/articles/20404)
 - [GCD 详尽总结](https://www.jianshu.com/p/2d57c72016c6)
 - [一天精通iOS Swift多线程（GCD）](https://juejin.cn/post/6858126631760986126)
 - [iOS 开发中的八种锁（Lock）](https://www.jianshu.com/p/8b8a01dd6356)

@@ -75,6 +75,7 @@ iOS相关文章
 - [Swift 中的幻象类型](https://mp.weixin.qq.com/s/HLWu24LrfqSfbhd9x6Q_ag)
 - [Swift 风味各异的类型擦除](https://mp.weixin.qq.com/s/qPcHh8reGiU6TD_eHFNAaQ)
 - [从响应式编程到 Combine 实践](https://mp.weixin.qq.com/s/b_q6R64xkq8Rl9EiIde4MA)
+- [Swift 5.7 新特性介绍](https://mp.weixin.qq.com/s/gzzme538BJqh-yUcGr-AZQ)
 
 
 ### SwiftUI

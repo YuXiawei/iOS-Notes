@@ -154,6 +154,7 @@ iOS相关文章
 - [再谈 OC 属性及属性关键字](https://juejin.cn/post/6986323251911720997)
 - [iOS Memory 内存详解](https://juejin.cn/post/6844903902169710600)
 - [iOS底层原理：weak的实现原理](https://juejin.cn/post/6844904101839372295)
+- [探秘Weak实现原理](https://mp.weixin.qq.com/s/OxePl6fBKYFOeL_tHN8UAA)
 - [理解 ARC 实现原理](https://juejin.cn/post/6844903847622606861)
 - [理解 Block 实现原理](https://juejin.cn/post/6844903874608775181)
 - [源码解析之从Block说开去](https://www.jianshu.com/p/f0cd09a04a36?utm_source=desktop&utm_medium=timeline)

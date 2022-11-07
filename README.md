@@ -146,6 +146,7 @@ iOS相关文章
 - [Swift编译器Crash—Segmentation fault解决方案](https://mp.weixin.qq.com/s/FSlJKnC0y51nsLDp1B3tXg)
 - [iOS的编译过程 LLVM Clang](https://www.jianshu.com/p/037fb5002b77)
 - [M1设备的Xcode编译问题深究](https://juejin.cn/post/7037037120158269448)
+- [快速链接：优化构建和启动耗时](https://mp.weixin.qq.com/s/GYnteAtFLJNN80Vnu94etA)
 
 
 ### 面试

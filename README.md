@@ -22,6 +22,7 @@ iOS相关文章
 ### 系统
 - [深入浅出iOS操作系统](https://www.jianshu.com/p/c75ea7003ec5)
 - [iOS系统架构](https://www.jianshu.com/p/3cfcc807d29b)
+- [iOS 框架整体梳理](https://cloud.tencent.com/developer/article/1647743)
 
 
 ### 架构/设计
@@ -43,6 +44,7 @@ iOS相关文章
 - [抖音iOS最复杂功能的重构之路--播放器交互区重构实践](https://mp.weixin.qq.com/s/ZmF5w3zzpqJb7AiBWGJUvA)
 - [西瓜客户端埋点实践：基于责任链的埋点框架](https://mp.weixin.qq.com/s/iMn--4FNugtH26G90N1MaQ)
 - [淘系技术-浅谈软件开发架构模式](https://mp.weixin.qq.com/s/cWp4J-XmvaoWHRMeuVDzPQ)
+- [iOS里的动态库和静态库](https://cloud.tencent.com/developer/article/2002577)
 
 
 ### UI
@@ -101,6 +103,7 @@ iOS相关文章
 
 
 ### 音视频
+- [iOS 渲染原理解析](https://mp.weixin.qq.com/s/w-kO-5RRBb2OvYg6idzDHg)
 - [滤镜开发概览](https://www.cnblogs.com/kenshincui/p/12181735.html)
 - [IOS基础：绘图](https://www.jianshu.com/p/88bcbc524a92)
 - [Audio Unit: iOS中最底层最强大音频控制API](https://juejin.cn/post/6844903838994923534)

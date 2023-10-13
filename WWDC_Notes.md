@@ -11,9 +11,11 @@ WWDC相关文章记录
 ## 23
 关键词：游戏，Swift、SwiftUI功能完善，iOS17
 
-- [WWDC23 内参](https://xiaozhuanlan.com/wwdc23) 
+- [WWDC23 内参](https://xiaozhuanlan.com/wwdc23)
+- [WWDC23 10123 - 把你的游戏移植到 Mac 上（一）](https://xiaozhuanlan.com/topic/7036984215)
 - [WWDC23 10167 - 初见 Swift 宏](https://xiaozhuanlan.com/topic/1403528796)
-- [WWDC23 10170 - Swift 结构化并发进阶](https://xiaozhuanlan.com/topic/3249081765)
+- [WWDC23 10244 - 使用 Swift-DocC 构建丰富的文档](https://xiaozhuanlan.com/topic/5976024813)
+- [WWDC23 10187, 10195, 10189, 10196 - SwiftData 全知道](https://xiaozhuanlan.com/topic/4937125086)
 - [WWDC23 10055 - UIKit 中的新功能](https://xiaozhuanlan.com/topic/0651384792)
 - [WWDC23 10165 - What's new in Xcode 15](https://xiaozhuanlan.com/topic/4731268095)
 - [WWDC23 10117 - App Store Connect 的新特性](https://xiaozhuanlan.com/topic/5304186279)
@@ -48,22 +50,27 @@ WWDC相关文章记录
 
 
 ## 20
-关键词：WidgetKit，iOS14
+关键词：小组件，Swift的完善，iOS14
 
-- [Stellar](https://github.com/AugustRush/Stellar) - 基于UIDynamic，函数式API
-- [Sica](https://github.com/cats-oss/Sica) - 基于CAAnimation，可以顺序或并发执行动画
-- [Hero](https://github.com/HeroTransitions/Hero) - 转场
-- [BWWalkthrough](https://github.com/ariok/BWWalkthrough) - 界面切换中加入灵动的动画效果
+- [WWDC20 10028 - WidgetKit 速览](https://xiaozhuanlan.com/topic/8610723945)
+- [WWDC20 10174 - App Clips 探索之旅](https://xiaozhuanlan.com/topic/4063519872)
+- [WWDC20 10170 - What's new in Swift](https://xiaozhuanlan.com/topic/2804537169)
+- [WWDC20 10648 Unsafe Swift](https://xiaozhuanlan.com/topic/5948263071)
+- [WWDC20 10027 - 现代cell配置](https://xiaozhuanlan.com/topic/6923780145)
+- [WWDC20 10097 - UICollectionView 的进阶](https://xiaozhuanlan.com/topic/7685190234)
+- [WWDC20 10231 - 使用 Blocking Playlist Reload 降低 HLS 延迟](https://xiaozhuanlan.com/topic/2650843179)
 
 
 
 ## 19
 关键词：SwiftUI, Combine，iOS13
-- [SwifterSwift](https://github.com/SwifterSwift/SwifterSwift) - Swift常用拓展
-- [SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON) - 以字典的方式使用json
-- [XCGLogger](https://github.com/DaveWoodCom/XCGLogger) - 功能完整的日志管理类库
-- [SQLite.swift](https://github.com/stephencelis/SQLite.swift) - SQLite3封装
-- [AEXML](https://github.com/tadija/AEXML) - XML解析
-- [SwiftyStoreKit](https://github.com/bizz84/SwiftyStoreKit) - StoreKit封装
+- [WWDC19内参](https://xiaozhuanlan.com/wwdc19)
+- [SwiftUI 概览：十分钟构建简单应用](https://xiaozhuanlan.com/topic/9604582713)
+- [Apple 官方异步编程框架：Swift Combine 简介](https://xiaozhuanlan.com/topic/9683417052)
+- [App多窗口支持架构](https://xiaozhuanlan.com/topic/4876109325)
+- [Mac Catalyst](https://developer.apple.com/mac-catalyst/)
+- [Implementing Modern Collection Views](https://developer.apple.com/documentation/uikit/views_and_controls/collection_views/implementing_modern_collection_views)
+- [Compositional Layout](https://juejin.cn/post/6844903864504860680)
+- [DiffableDataSource](https://www.jianshu.com/p/3fd254a5a4fb)
 
 

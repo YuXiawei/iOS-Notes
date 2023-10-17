@@ -51,7 +51,7 @@ WWDC相关文章记录
 
 ## 20
 关键词：小组件，Swift的完善，iOS14
-
+- [WWDC20 内参](https://xiaozhuanlan.com/wwdc20)
 - [WWDC20 10028 - WidgetKit 速览](https://xiaozhuanlan.com/topic/8610723945)
 - [WWDC20 10174 - App Clips 探索之旅](https://xiaozhuanlan.com/topic/4063519872)
 - [WWDC20 10170 - What's new in Swift](https://xiaozhuanlan.com/topic/2804537169)
@@ -59,7 +59,7 @@ WWDC相关文章记录
 - [WWDC20 10027 - 现代cell配置](https://xiaozhuanlan.com/topic/6923780145)
 - [WWDC20 10097 - UICollectionView 的进阶](https://xiaozhuanlan.com/topic/7685190234)
 - [WWDC20 10231 - 使用 Blocking Playlist Reload 降低 HLS 延迟](https://xiaozhuanlan.com/topic/2650843179)
-
+- [WWDC20 10655 - 了解如何下载并离线播放 HLS](https://xiaozhuanlan.com/topic/6985071234)
 
 
 ## 19

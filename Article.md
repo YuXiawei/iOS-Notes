@@ -13,6 +13,7 @@ iOS相关文章
 - [网络](#网络)
 - [优化](#优化)
 - [编译](#编译)
+- [调试](#调试)
 - [面试](#面试)
 - [其它](#其它)
 
@@ -153,6 +154,17 @@ iOS相关文章
 - [探究iOS底层原理|LLDB](https://juejin.cn/post/7095079758844674056)
 
 
+### 调试
+- [diagnosing memory thread and crash issues early](https://developer.apple.com/documentation/xcode/diagnosing-memory-thread-and-crash-issues-early)
+- [理解 iOS 异常类型](https://juejin.cn/post/6844903866128039944)
+- [iOS开发调试概览](https://www.cnblogs.com/kenshincui/p/11953536.html)
+- [Another 'LLDB: Beyond "po"'](https://xiaozhuanlan.com/topic/2683509174)
+- [运行、暂停、检查：探索如何使用 LLDB 进行有效调试](https://mp.weixin.qq.com/s/V5INNcytjLdN7JaU5yUPNQ)
+- [再探ARC，Autoreleasepool，NSString——由一场直播OOM引发的故事](https://mp.weixin.qq.com/s/oU9DWR4OP8DMp6smMhIxZg)
+- [静态库冲突问题思路全解](https://mp.weixin.qq.com/s/LAFS-6Oycnzu5kOhS9d7pA)
+
+  
+
 ### 面试
 - [史上最全iOS八股文面试题](https://blog.51cto.com/u_15068388/5076104)
 - [【iOS】架构师之路~底层原理五 : (面试题目整理)](https://juejin.cn/post/6844903960722014215)
@@ -191,7 +203,6 @@ iOS相关文章
 ### 其它
 - [Google Swift Style Guide 中文版](http://pages.swift.gg/google-swift-style-guide-in-chinese/)
 - [Swift 开发规范](https://coder-star.github.io/iOS/%E8%A7%84%E8%8C%83/Swift%E5%BC%80%E5%8F%91%E8%A7%84%E8%8C%83/)
-- [iOS开发调试概览](https://www.cnblogs.com/kenshincui/p/11953536.html)
 - [CocoaPods历险记](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA5MTM1NTc2Ng==&action=getalbum&album_id=1477103239887142918&scene=173&from_msgid=2458322728&from_itemidx=1&count=3)
 - [iOS包依赖管理工具（一）：CocoaPods了解篇](https://juejin.cn/post/6932739864613879821)
 - [CocoaPods 都做了什么？](https://draveness.me/cocoapods/)
@@ -206,12 +217,8 @@ iOS相关文章
 - [iOS开发老司机的神兵利器-效率工具](https://juejin.cn/post/6844904205640007687)
 - [iOS日历攻略：提醒调休并过滤法定节假日](https://mp.weixin.qq.com/s/k-2P9DfIzy5ja8ce7mHHDw)
 - [利用 Apple Business Manager 定向分发 Custom App](https://mp.weixin.qq.com/s/DlqTipoZCJCBotGhha1GIw)
-- [Another 'LLDB: Beyond "po"'](https://xiaozhuanlan.com/topic/2683509174)
-- [运行、暂停、检查：探索如何使用 LLDB 进行有效调试](https://mp.weixin.qq.com/s/V5INNcytjLdN7JaU5yUPNQ)
 - [iOS 识别虚拟定位调研](https://mp.weixin.qq.com/s/ZbZ4pFzzyfrQifmLewrxsw)
-- [再探ARC，Autoreleasepool，NSString——由一场直播OOM引发的故事](https://mp.weixin.qq.com/s/oU9DWR4OP8DMp6smMhIxZg)
 - [iOS 深思篇 | 正则表达式](https://mp.weixin.qq.com/s/0sVMQDstgIZEpYZUvRNadg)
 - [用苹果官方 API 实现 iOS 备忘录的扫描文稿功能](https://www.fatbobman.com/posts/docScaner/)
 - [字节跳动移动研发工具链 - MBox](https://mp.weixin.qq.com/s/OD2lYfA9tkdgEp4QGRtdog)
-- [静态库冲突问题思路全解](https://mp.weixin.qq.com/s/LAFS-6Oycnzu5kOhS9d7pA)
 - [超全回顾 | 5位抖音工程师揭秘抖音iOS基础技术（附PPT和回放视频）](https://mp.weixin.qq.com/s/dFkGjCgZeXbYxsu3F40L-Q)
